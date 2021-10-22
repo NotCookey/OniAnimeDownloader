@@ -8,4 +8,4 @@ An Anime Downloader Written in Pure Python and a good looking UI made using Qt.
 
 Thank you, Have a wonderland day <3
 
-> Developed and Maintained By SecretsX
+> **Developed and Maintained By SecretsX**
