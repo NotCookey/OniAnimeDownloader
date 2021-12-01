@@ -1,0 +1,7 @@
+PyQt5
+aiohttp
+bs4
+asyncio
+os
+requests
+webbrowser
